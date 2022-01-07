@@ -1,0 +1,8 @@
+.navibar{
+list-style: none;
+display: flex;
+align-items: center;
+justify-content: space-around;
+padding-top: 13px;
+color: rgb(187, 147, 87);
+}

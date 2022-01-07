@@ -1,0 +1,21 @@
+.textform{
+border: 3px solid rgb(187, 147, 87);;
+border-radius: 10px;
+box-shadow: 0px 5px 10px grey;
+
+}
+#para{
+    color: red;
+}
+h3{
+    color: rgb(48, 91, 104);
+}
+abbr[title] {
+    border-bottom: none !important;
+    cursor: inherit !important;
+    text-decoration: none !important;
+  }
+  .btn{
+    border-radius: 2px;
+    box-shadow: 0px 5px 10px grey;
+  }
